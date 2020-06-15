@@ -20,7 +20,7 @@ make clean
 #### Progress
 
 - [X] [Day 1](2019/day_1.c)
-- [ ] Day 2
+- [X] [Day 2](2019/day_2.c)
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5

@@ -1,6 +1,6 @@
 CC = gcc
-CFLAGS = -Wall -std=c99
-objects = day_1
+CFLAGS = -Wall -std=c99 -g
+objects = day_1 day_2
 all: $(objects)
 
 $(objects): %: %.c
